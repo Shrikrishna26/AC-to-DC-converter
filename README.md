@@ -37,15 +37,12 @@ The converter consists of:
 
 ## Project Images
 
-### Schematic
-![Schematic](images/AC-DC_converter_Schematics.png)
+### Circuit Schematic
+![Circuit Schematic](AC-DC%20converter%20Schematics.png)
 
-### PCB Layout
-![PCB Layout](images/pcb_layout.png)
+### PCB Design
+![PCB Design](AC-DC%20converter%20PCB%20design.png)
 
-### 3D PCB View
-![3D PCB](images/pcb_3d.png)
-
----
-
+### PCB 3D Layout
+![PCB 3D Layout](AC-DC%20Converter%20layout.png)
 ## Repository Structure
