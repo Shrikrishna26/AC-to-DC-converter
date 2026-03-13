@@ -38,7 +38,7 @@ The converter consists of:
 ## Project Images
 
 ### Schematic
-![Schematic](images/schematic.png)
+![Schematic](images/AC-DC converter Schematics.png)
 
 ### PCB Layout
 ![PCB Layout](images/pcb_layout.png)
