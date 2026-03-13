@@ -40,9 +40,9 @@ The converter consists of:
 ### Circuit Schematic
 ![Circuit Schematic](AC-DC%20converter%20Schematics.png)
 
-### PCB Design
-![PCB Design](AC-DC%20converter%20PCB%20design.png)
-
-### PCB 3D Layout
+### Routing Layout
 ![PCB 3D Layout](AC-DC%20Converter%20layout.png)
+
+### Final PCB Design
+![PCB Design](AC-DC%20converter%20PCB%20design.png)
 ## Repository Structure
